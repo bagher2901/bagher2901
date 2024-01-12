@@ -1,4 +1,14 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif" width="200" height="200"/>
+  
+</div>
+
+## <div align="center">Hi there 👋</div>
+
+<div id="badges">
+  <a href="www.linkedin.com/in/bagher-mohammadzadeh">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 
 ## 🌐 Pioneering the Fusion of Research and Implementation in AI & Cybersecurity 🛡️
@@ -29,7 +39,6 @@ My mission is to synergize AI and cybersecurity research with effective implemen
 I'm excited to connect and collaborate on projects that push the boundaries of information security. With a mindset geared towards constant learning and improvement, I am here to make a significant impact in the field. 🌟
 <hr>
 
-##### contact with me
-<a href="www.linkedin.com/in/bagher-mohammadzadeh">linkedin</a>
+
 
 
