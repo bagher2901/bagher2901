@@ -19,7 +19,7 @@ Greetings! I'm at the forefront of Information Security, where my passion for re
 ## 🚀 Core Skills:
 
 ### Programming Languages
-Proficient in Python, Java, Nodejs, C++, and SQL, using them as foundational tools for secure programming.
+Experienced in Python, Java, Nodejs, C++, and SQL, using them as foundational tools for secure programming.
 ### AI & Machine Learning
 Skilled in Deep Learning and Reinforcement Learning, applying these to bolster cybersecurity defenses.
 ### Ethical Hacking & Security
