@@ -39,6 +39,14 @@ My mission is to synergize AI and cybersecurity research with effective implemen
 I'm excited to connect and collaborate on projects that push the boundaries of information security. With a mindset geared towards constant learning and improvement, I am here to make a significant impact in the field. 🌟
 <hr>
 
+## :fire: My Stats :
 
 
 
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bagher2901&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagher2901&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
